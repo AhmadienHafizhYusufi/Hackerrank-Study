@@ -1,8 +1,7 @@
 Complete the function ***solveMeFirst***  to compute the sum of two integers.
 
 ### Example
-$a = 7
-b = 3$
+$a = 7 b = 3$
 
 Return **10**.
 
