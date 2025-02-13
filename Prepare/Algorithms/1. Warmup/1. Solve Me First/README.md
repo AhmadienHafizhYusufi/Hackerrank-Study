@@ -1,20 +1,19 @@
 Complete the function ***solveMeFirst***  to compute the sum of two integers.
 
 ### Example
-$a = 7 b = 3$
-
-Return **10**.
+Given $a = 7$ and $b = 3$, the function should return **10**.
 
 ### Function Description
 
-Complete the ***solveMeFirst*** function with the following parameters:
+Implement the ***solveMeFirst*** function with the following parameters:
 
-- ***int a***: the first value
-- ***int b***: the second value
-Returns
-- ***int***: the sum of ***a*** and ***b*** 
+- ***int a***: the first integer
+- ***int b***: the second integer
 
-Constraints
+Returns:
+- ***int***: the sum of ***a*** and ***b***
+
+### Constraints
 
 $1 \leq a, b \leq 1000$
 
@@ -31,4 +30,8 @@ b = 3
 
 ### Explanation
 
-$2 + 3 = 5$.
+The sum of $2 + 3$ equals $5$.
+
+### How To Solve
+
+To solve this problem, simply return the sum of the two parameters, $a$ and $b$, in the function ***solveMeFirst***.
