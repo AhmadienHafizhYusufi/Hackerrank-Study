@@ -1,4 +1,4 @@
-We can directly print the integer division and float division in python.
+We can directly print the integer division and float division.
 
 1. Integer division
 
